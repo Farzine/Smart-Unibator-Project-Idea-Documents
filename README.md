@@ -20,15 +20,15 @@ This documentation is intended for users and administrators of the Waste Managem
 
 ## Contents
 
-- [Video Presentation](./waste_management.mp4): A video presentation providing an overview of the application.
-- [PowerPoint Presentation](./Waste_Management_and_Recycle_System_Application.pptx): A PowerPoint presentation summarizing key features and benefits.
-- [PDF Document](./class-diagram_of_Waste_Management_and_Recycle_system_Application.pdf): PDF document containing detailed documentation of the application.
+- [Video Presentation](https://github.com/Farzine/Smart-Unibator-Project-Idea-Documents/blob/main/waste%20management.mp4): A video presentation providing an overview of the application.
+- [PowerPoint Presentation](https://github.com/Farzine/Smart-Unibator-Project-Idea-Documents/blob/main/Waste%20Management%20and%20Recycle%20System%20Application.pptx): A PowerPoint presentation summarizing key features and benefits.
+- [PDF Document](https://github.com/Farzine/Smart-Unibator-Project-Idea-Documents/blob/main/class-diagram%20of%20Waste%20Management%20and%20Recycle%20system%20Application.pdf): PDF document containing detailed documentation of the application.
 
 ## Instructions
 
-1. Watch the [video presentation](./waste_management.mp4) to get an overview of the application.
-2. Review the [PowerPoint presentation](./Waste_Management_and_Recycle_System_Application.pptx) for a summarized version of the application's features and benefits.
-3. Refer to the [PDF document](./class-diagram_of_Waste_Management_and_Recycle_system_Application.pdf) for detailed documentation of the application.
+1. Watch the [video presentation](https://github.com/Farzine/Smart-Unibator-Project-Idea-Documents/blob/main/waste%20management.mp4) to get an overview of the application.
+2. Review the [PowerPoint presentation](https://github.com/Farzine/Smart-Unibator-Project-Idea-Documents/blob/main/Waste%20Management%20and%20Recycle%20System%20Application.pptx) for a summarized version of the application's features and benefits.
+3. Refer to the [PDF document](https://github.com/Farzine/Smart-Unibator-Project-Idea-Documents/blob/main/class-diagram%20of%20Waste%20Management%20and%20Recycle%20system%20Application.pdf) for detailed documentation of the application.
 
 ## Conclusion
 
