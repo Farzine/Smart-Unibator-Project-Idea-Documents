@@ -20,15 +20,15 @@ This documentation is intended for users and administrators of the Waste Managem
 
 ## Contents
 
-- [Video Presentation](./waste management.mp4): A video presentation providing an overview of the application.
-- [PowerPoint Presentation](./Waste Management and Recycle System Application.pptx): A PowerPoint presentation summarizing key features and benefits.
-- [PDF Document](./class-diagram of Waste Management and Recycle system Application.pdf): PDF document containing detailed documentation of the application.
+- [Video Presentation](./waste_management.mp4): A video presentation providing an overview of the application.
+- [PowerPoint Presentation](./Waste_Management_and_Recycle_System_Application.pptx): A PowerPoint presentation summarizing key features and benefits.
+- [PDF Document](./class-diagram_of_Waste_Management_and_Recycle_system_Application.pdf): PDF document containing detailed documentation of the application.
 
 ## Instructions
 
-1. Watch the [video presentation](./video_presentation.mp4) to get an overview of the application.
-2. Review the [PowerPoint presentation](./presentation.pptx) for a summarized version of the application's features and benefits.
-3. Refer to the [text document](./documentation.txt) or [PDF document](./documentation.pdf) for detailed documentation of the application.
+1. Watch the [video presentation](./waste_management.mp4) to get an overview of the application.
+2. Review the [PowerPoint presentation](./Waste_Management_and_Recycle_System_Application.pptx) for a summarized version of the application's features and benefits.
+3. Refer to the [PDF document](./class-diagram_of_Waste_Management_and_Recycle_system_Application.pdf) for detailed documentation of the application.
 
 ## Conclusion
 
